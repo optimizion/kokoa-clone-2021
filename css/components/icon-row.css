@@ -1,5 +1,6 @@
 .icon-row {
   display: flex;
+  padding-bottom: 20px;
   /* flex-wrap: wrap; */
   /* justify-content: space-between; */
 }
